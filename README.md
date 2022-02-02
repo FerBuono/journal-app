@@ -44,7 +44,7 @@ Enzyme was used to perform the testing of the different components and functiona
 
 ## Technologies
 
-### Main libraries used in the project
+### Main technologies used in the project
 
 | Technology                                                       | Used for                  |
 | ---------------------------------------------------------------- | ------------------------- |
