@@ -38,7 +38,7 @@ const AppRouter = () => {
   };
 
   return (
-      <BrowserRouter>
+      <BrowserRouter basename='/journal-app'>
         <Switch>
             <PublicRoute 
               path='/auth' 
